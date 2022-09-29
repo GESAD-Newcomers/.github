@@ -14,21 +14,7 @@
 > - https://www.ibm.com/cloud/learn/message-brokers
 > ### APIs for Beginners - How to use an API (Full Course / Tutorial) :disguised_face: 
 > - https://www.youtube.com/watch?v=GZvSYJDk-us
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-.github/README.md at main · GESAD-Newcomers/.github
+
 <!--
 
 **Here are some ideas to get you started:**
